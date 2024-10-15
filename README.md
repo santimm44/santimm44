@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&name=true&top_languages=true&stroke=%23b362ff&theme=green_dark)
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME&name=true&top_languages=true&stroke=%23b362ff&theme=green)
 
 
 <!--
