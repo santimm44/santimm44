@@ -6,6 +6,8 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=santimm44&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santimm44&theme=material-palenight&show_icons=true)
+
 
 ## 🌱 I’m currently learning:
 * Html
