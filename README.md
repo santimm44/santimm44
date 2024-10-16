@@ -17,7 +17,7 @@ I don't like the searing heat and lately it's been too hot. Thank goodness Winte
 <!--Viusal list of Tools I am familiar with -->
 ## Familiar With
 
-[![C# Logo](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) {:target="_blank"}
+[![C# Logo](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 ![Javascript Logo](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python Logo](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java Logo](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,4 +49,4 @@ I don't like the searing heat and lately it's been too hot. Thank goodness Winte
 </a>
 
 <!--CodeWars Card-->
-<img src= "https://github.r2v.ch/codewars?user=santimm44&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark" />
+<img src= "https://github.r2v.ch/codewars?user=santimm44&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark" target="_blank" />
