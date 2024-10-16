@@ -44,8 +44,8 @@ I don't like the searing heat and lately it's been too hot. Thank goodness Winte
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=santimm44&theme=material-palenight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=santimm44&layout=compact&langs_count=8&theme=material-palenight" target="_blank"/>
+<a href="https://github.com/anuraghazra/convoychat" target="_blank">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=santimm44&layout=compact&langs_count=8&theme=material-palenight" />
 </a>
 
 <!--CodeWars Card-->
