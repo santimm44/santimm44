@@ -1,3 +1,46 @@
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0lax" colspan="2"></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=santimm44&theme=material-palenight" />
+      </a> 
+    </td>
+    <td class="tg-0lax">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=santimm44&theme=material-palenight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+
+
+## 🌱 I’m currently learning:
+* Html
+* CSS
+* JavaScript
+
+## 🔭 I’m currently working on:
+- A Visual Novel using Godot and Dialogic
+- A fitness app named MuscleForge
+
+## Tools I am learning:
+- Tkinter
+- Godot
+  - I am sticking with it
+ 
 ## Hi there 👋
 ### About me:
 <p align="center">
@@ -20,24 +63,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=material-palenight" />
 </a>
 
+<br>
+
 ![Codewars](https://github.r2v.ch/codewars?user=santimm44&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santimm44&theme=material-palenight&show_icons=true)
 
 
-## 🌱 I’m currently learning:
-* Html
-* CSS
-* JavaScript
-
-## 🔭 I’m currently working on:
-- A Visual Novel using Godot and Dialogic
-- A fitness app named MuscleForge
-
-## Tools I am learning:
-- Tkinter
-- Godot
-  - I am sticking with it
 
 <!--
 Here are some ideas to get you started:
