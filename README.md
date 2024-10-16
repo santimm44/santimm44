@@ -1,6 +1,8 @@
+<link rel="stylesheet" href="./styles/style.css">
+
 [![](https://visitcount.itsvg.in/api?id=santimm44&icon=0&color=3)](https://visitcount.itsvg.in)
 
-## About me:
+<h2> About me:</h2>
 <p align="center">
   I don't like the searing heat and lately it's been too hot. Thank goodness Winter is around the corner.
 </p>
