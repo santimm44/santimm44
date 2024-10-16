@@ -34,13 +34,12 @@ I don't like the searing heat and lately it's been too hot. Thank goodness Winte
 <!--Repositories I am promoting-->
 ## Check out some of my Repos
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=santimm44&repo=MuscleForge&theme=material-palenight" />
-</a>
+[![muscleforge Repo](https://github-readme-stats.vercel.app/api/pin/?username=santimm44&repo=MuscleForge&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--GitHub Cards: Stats-->
 ## Stats
 
+<!--Change to markdown version. No benefit to having the html version-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=santimm44&theme=material-palenight" />
 </a>
