@@ -6,9 +6,16 @@
 </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santiagojesusmontanez) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-jesus-montanez) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/santiag30071613) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santiagojesusmontanez) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-jesus-montanez) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/santiag30071613) 
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/santimm44)
+<br>
+[![Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/13568309/santiagomm44)
 
-<table class="tg"><thead>
+
+
+<table class="tg" ><thead>
   <tr>
     <th class="tg-0lax" colspan="2"><h1>Some Nice Visuals</h1></th>
   </tr></thead>
@@ -54,6 +61,9 @@
       <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
       <img src = "https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
       <img src = "https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" /> 
+      <br>
+      <img src = "https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat" />
+      <img src ="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic" />
     </td>
   </tr>
 </tbody>
