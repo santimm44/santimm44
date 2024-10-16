@@ -2,7 +2,7 @@
 
 <h1> About me:</h1>
 <p align="center">
-  I don't like the searing heat and lately it's been too hot. Thank goodness Winter is around the corner.
+  <mark>I don't like the searing heat and lately it's been too hot. Thank goodness Winter is around the corner.</mark>
 </p>
 
 # 🌐 Socials:
