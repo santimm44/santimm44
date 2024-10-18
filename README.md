@@ -1,6 +1,6 @@
 # Santiago Jesus Montanez
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=santimm44&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=santimm44&label=Profile%20Views&color=3&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 ## About me
 
