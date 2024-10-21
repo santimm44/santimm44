@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=santimm44&label=Profile%20Views&color=3&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
-## About me
+## 👨‍🦱 About me
 
 I don't like the searing heat and lately it's been too hot. Thank goodness Winter is around the corner.
 
@@ -18,28 +18,36 @@ I don't like the searing heat and lately it's been too hot. Thank goodness Winte
 <!--Viusal list of Tools I am familiar with -->
 ## Familiar With
 
+### 📕 Languages
+
 [![C# Logo](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 ![Javascript Logo](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python Logo](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java Logo](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5 Logo](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Logo](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🖥️ Frameworks
+
 ![Bootstrap Logo](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![.NET Logo](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### 🛠️ Software and Tools
+
 ![Blender Logo](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&ogoColor=white)
 ![Canva Logo](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![d](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Logo](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Github Logo](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) \
 ![Godot Engine Logo](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
 ![Visual Studio Code Logo](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 
 <!--Repositories I am promoting-->
-## Check out some of my Repos
+## 😀 Check out some of my Repos
 
 [![muscleforge Repo](https://github-readme-stats.vercel.app/api/pin/?username=santimm44&repo=MuscleForge&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--GitHub Cards: Stats-->
-## Stats
+## ♾️ Stats
 
 <!--Change to markdown version. No benefit to having the html version-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
