@@ -1,5 +1,5 @@
 # Welcome!
-![Santiago J. Montanez Banner](https://github.com/santimm44/santimm44/blob/main/GithubBanner1.0.png?raw=true "Banner")
+![Santiago J. Montanez Banner](https://github.com/santimm44/santimm44/blob/main/SpotMe-TeamBanner-Linkedin%20(2).png)
 
 [![](https://visitcount.itsvg.in/api?id=santimm44&label=Profile%20Views&color=3&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
