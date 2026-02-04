@@ -1,56 +1,51 @@
 # Welcome!
 
-[![](https://visitcount.itsvg.in/api?id=santimm44&label=Profile%20Views&color=3&icon=2&pretty=false)](https://visitcount.itsvg.in)
+---
 
-## About me
+## About Me
 
-I don't like the searing heat and lately it's been too hot. Thank goodness Winter is around the corner.
+> Software developer and Software Engineering student with an interest in developer experience and practical tooling.  
+> Currently juggling two jobs while working toward a full-time role in tech. If you’re hiring or know someone who is, I’d love to connect.
+
+---
 
 ## Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santiagojesusmontanez)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-jesus-montanez)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/santiag30071613)
-[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white)](https://www.codewars.com/users/santimm44) \
-[![Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/13568309/santiagomm44)
+[![Instagram](https://img.shields.io/badge/Instagram-3a3f45?style=for-the-badge&logo=Instagram&logoColor=f2c94c)](https://instagram.com/santiagojesusmontanez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3a3f45?style=for-the-badge&logo=linkedin&logoColor=f2c94c)](https://linkedin.com/in/santiago-jesus-montanez)
+[![X](https://img.shields.io/badge/X-3a3f45?style=for-the-badge&logo=X&logoColor=f2c94c)](https://x.com/santiag30071613)
+[![CodeWars](https://img.shields.io/badge/CodeWars-3a3f45?style=for-the-badge&logo=Codewars&logoColor=f2c94c)](https://www.codewars.com/users/santimm44)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-3a3f45?style=for-the-badge&logo=stack-overflow&logoColor=f2c94c)](https://stackoverflow.com/users/13568309/santiagomm44)
 
-<!--Viusal list of Tools I am familiar with -->
+---
+
 ## Familiar With
 
 ### Languages
 
-[![C# Logo](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-![Javascript Logo](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python Logo](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java Logo](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5 Logo](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Logo](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-2d1b3c?style=for-the-badge&logo=csharp&logoColor=f2c94c)
+![JavaScript](https://img.shields.io/badge/JavaScript-2d1b3c?style=for-the-badge&logo=javascript&logoColor=f2c94c)
+![Python](https://img.shields.io/badge/Python-2d1b3c?style=for-the-badge&logo=python&logoColor=f2c94c)
+![Java](https://img.shields.io/badge/Java-2d1b3c?style=for-the-badge&logo=openjdk&logoColor=f2c94c)
+![HTML5](https://img.shields.io/badge/HTML5-2d1b3c?style=for-the-badge&logo=html5&logoColor=f2c94c)
+![CSS3](https://img.shields.io/badge/CSS3-2d1b3c?style=for-the-badge&logo=css3&logoColor=f2c94c)
 
 ### Frameworks
 
-![Bootstrap Logo](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![.NET Logo](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a2c2e?style=for-the-badge&logo=bootstrap&logoColor=f2c94c)
+![.NET](https://img.shields.io/badge/.NET-1a2c2e?style=for-the-badge&logo=.net&logoColor=f2c94c)
 
-### Software and Tools
+### Tools
 
-![Blender Logo](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&ogoColor=white)
-![Canva Logo](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Logo](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Github Logo](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) \
-![Godot Engine Logo](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
-![Visual Studio Code Logo](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
+![Blender](https://img.shields.io/badge/Blender-3a3f45?style=for-the-badge&logo=blender&logoColor=f2c94c)
+![Canva](https://img.shields.io/badge/Canva-3a3f45?style=for-the-badge&logo=Canva&logoColor=f2c94c)
+![Adobe](https://img.shields.io/badge/Adobe-3a3f45?style=for-the-badge&logo=adobe&logoColor=f2c94c)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-3a3f45?style=for-the-badge&logo=github&logoColor=f2c94c)
+![Godot](https://img.shields.io/badge/Godot-3a3f45?style=for-the-badge&logo=godotengine&logoColor=f2c94c)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-3a3f45?style=for-the-badge&logo=visualstudiocode&logoColor=f2c94c)
 
-<!--Repositories I am promoting-->
-<!--## Check out some of my Repos-->
-<!--[![muscleforge Repo](https://github-readme-stats.vercel.app/api/pin/?username=santimm44&repo=MuscleForge&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)-->
+---
 
-<!--GitHub Cards: Stats-->
 ## Stats
 
-<!--Change to markdown version. No benefit to having the html version-->
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=santimm44&layout=compact&langs_count=8&theme=material-palenight" />
-</a>
-
-<!--CodeWars Card-->
-<img src= "https://github.r2v.ch/codewars?user=santimm44&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark"/>
+![CodeWars](https://github.r2v.ch/codewars?user=santimm44&name=true&top_languages=true&stroke=%23f2c94c&theme=gradient_purple_dark)
