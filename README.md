@@ -1,14 +1,14 @@
-# Welcome!
+# <img src="./assets/PepeDance-1x.gif" width="40" alt="Pepe Dance"> ¡Bienvenidos a Mundo de Santi!
+
+> Hey there. 
+>Sometimes I write code, sometimes I don't know what I am writing. Either way, it ends up here.
+
+I’m building apps I want to use myself, starting with a Windows podcast app while I learn WPF. Most of what I make will be free and open source, so if you find something useful here, help yourself.
+
+I’m not sure whether a tech role is in the cards for me<img src="./assets/Pepehands-1x.gif" width="25" alt="Pepe Hands">, but I still enjoy making software. For now, I’m working as a shift lead at a gas station and aim to get into store management. Along the way, I am making time to build things that interest me.
 
 ---
-
-## About Me
-
-> Software developer and Software Engineering student with an interest in developer experience and practical tooling.  
-> Currently juggling two jobs while working toward a full-time role in tech. If you’re hiring or know someone who is, I’d love to connect.
-
----
-
+<!-- 
 ## Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-3a3f45?style=for-the-badge&logo=Instagram&logoColor=f2c94c)](https://instagram.com/santiagojesusmontanez)
@@ -17,7 +17,7 @@
 [![CodeWars](https://img.shields.io/badge/CodeWars-3a3f45?style=for-the-badge&logo=Codewars&logoColor=f2c94c)](https://www.codewars.com/users/santimm44)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-3a3f45?style=for-the-badge&logo=stack-overflow&logoColor=f2c94c)](https://stackoverflow.com/users/13568309/santiagomm44)
 
----
+--- -->
 
 ## Familiar With
 
@@ -46,6 +46,6 @@
 
 ---
 
-## Stats
+<!-- ## Stats
 
-![CodeWars](https://github.r2v.ch/codewars?user=santimm44&name=true&top_languages=true&stroke=%23f2c94c&theme=gradient_purple_dark)
+![CodeWars](https://github.r2v.ch/codewars?user=santimm44&name=true&top_languages=true&stroke=%23f2c94c&theme=gradient_purple_dark) -->
