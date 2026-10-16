@@ -1,6 +1,7 @@
-# <img src="./assets/PepeDance-1x.gif" width="40" alt="Pepe Dance"> ¡Bienvenidos a Mundo de Santi!
+# ¡Bienvenidos a Mundo de Santi!
 
-> Hey there. 
+<img src="./assets/PepeDance-1x.gif" width="40" alt="Pepe Dance">
+ 
 >Sometimes I write code, sometimes I don't know what I am writing. Either way, it ends up here.
 
 I’m building apps I want to use myself, starting with a Windows podcast app while I learn WPF. Most of what I make will be free and open source, so if you find something useful here, help yourself.
@@ -18,6 +19,10 @@ I’m not sure whether a tech role is in the cards for me<img src="./assets/Pepe
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-3a3f45?style=for-the-badge&logo=stack-overflow&logoColor=f2c94c)](https://stackoverflow.com/users/13568309/santiagomm44)
 
 --- -->
+
+## Learning
+
+XAML & WPF
 
 ## Familiar With
 
