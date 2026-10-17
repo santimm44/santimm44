@@ -2,7 +2,7 @@
 
 >Sometimes I write code, sometimes I don't know what I am writing. Either way, it ends up here.
 
-<img src="./assets/PepeDance-1x.gif" width="32" alt="Pepe Dance">
+<img src="./assets/pepeDance-1x.gif" width="32" alt="Pepe Dance">
 
 I’m building apps I want to use myself, starting with a Windows podcast app while I learn WPF. Most of what I make will be free and open source, so if you find something useful here, help yourself.
 
